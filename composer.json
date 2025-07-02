@@ -23,7 +23,7 @@
   "require": {
     "php": ">=7.2.0",
     "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-    "timmy78/phpCAS": "^1.7",
+    "timmy78/phpcas": "^1.7",
     "monolog/monolog": "^2.0|^3.0"
   },
   "require-dev": {
