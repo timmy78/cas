@@ -1,5 +1,5 @@
 {
-  "name": "subfission/cas",
+  "name": "timmy/cas",
   "description": "Adds CAS support to Laravel 5.x - 11.x",
   "keywords": [
     "CAS",
@@ -56,5 +56,10 @@
   },
   "require-dev": {
     "orchestra/testbench": "^6.25"
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
   }
 }
